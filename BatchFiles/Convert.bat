@@ -1,0 +1,1 @@
+"C:\Program Files\Python39\python.exe" "E:\Scripts\Scripts\846ComparerXLSX.py"

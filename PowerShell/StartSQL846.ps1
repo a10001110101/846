@@ -1,0 +1,1 @@
+invoke-sqlcmd -serverInstance DB\SQLExpress -database 846Composer -query "EXEC [dbo].[846Task]"
